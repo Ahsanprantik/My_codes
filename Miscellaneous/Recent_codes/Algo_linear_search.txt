@@ -1,0 +1,24 @@
+Algorithm:
+	for i=1 to A.length
+		if A[i]=v
+			break
+	if i>A.length
+		print NIL
+	else
+		print i
+
+Proof:
+	Initialization:
+	Just before the loop starts the loop invariant holds A[0] subarray which has no element equal to v.
+	Maintenance:
+	The loop goes on increasing one element at the right. The subarrays A[i-1] has no element equal to v.
+	Termination:
+	The loop terminates when i>A.length or A[i]=v. In the first case, the entire A[1...A.length] has no element equal to v. So, NIL is printed when i>A.length. In the second case, A[i] has the value equal to v when i<=A. So, the index of that element is printed as required.
+
+Running time:
+	Worst case:
+	O(n^2)
+	Best case:
+	O(C)
+	Average case:
+	O((n^2)
