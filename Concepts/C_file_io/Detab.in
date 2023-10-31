@@ -1,0 +1,12 @@
+This is
+	a line
+that	is full of	tabs.
+The tabs will be 	replaced
+by a programme named 	Detab.
+Please run command 'Detab <input> <output>'
+	to substitute these tabs.
+
+Find the output in the output file.
+
+Good	luck!
+
