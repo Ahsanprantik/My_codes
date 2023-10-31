@@ -1,0 +1,19 @@
+Words	Ciphers	Match Type
+a		@			Shape
+A		4			Shape
+b		6			Shape
+B		8			Shape
+B		|3		   Shape
+c/c	  3			Pronunciation
+c/C	  ¢			Shape
+D		|)		   Shape
+E		£/€		  Shape
+E		3			Shape(Leftside right)
+e		6			Shape(Upside down)
+F		|=		   Shape
+g		&			Shape(A bit up)
+H		|-|		  Shape
+
+
+R		|2		   Shape
+S/s	  $			Shape

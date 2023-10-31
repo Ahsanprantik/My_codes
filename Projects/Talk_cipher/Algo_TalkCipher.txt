@@ -1,0 +1,10 @@
+*input talk//gets() ending with pressing enter
+*input what cipher(f, b, n, fn, bn....)//getch()
+*if only n print .%d., character(!=' ')
+*if only f print %c, 'character'+1
+*if only b print %c, 'character'-1
+*if fn print .%d., character+1
+*if fn print %d, character+1
+*if bn print .%d., character-1
+*if character==' ' print %c character(no change)
+*if character=='\n' finish//note: gets() ends with'\n'
