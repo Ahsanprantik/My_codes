@@ -1,0 +1,17 @@
+import pandas as pd
+from Ipython.display import display
+
+# Creating a simple dataset of people
+data = {
+	'Name' : ["Jasim", "Karim", "Mita", "Antora"],
+	'Location' : ["Rajshahi", "Dhaka", "Rangpur", "Kushtia"],
+	'Age' : [24, 13, 53, 33]
+}
+
+frame = pd.DataFrame(data)
+
+display(frame)
+
+print()
+
+display(frame[frame.Age > 30])

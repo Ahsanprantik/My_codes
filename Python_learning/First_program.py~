@@ -1,0 +1,18 @@
+# This line is a comment
+
+print("")
+print("হ্যালো ওয়ার্ল্ড!")
+print("Hello world!")
+print("Hello Again")
+print("I like typing this.")
+print("This is fun.")
+print('Yay! Printing.')
+print("I'd much rather you 'not'.")
+print('I "said" do not touch this.')
+print("You are worthless without money or power.")
+print("You are nothing without these.")
+print("You are a failure.")
+print("No one will like you.")
+print("None will rely on you.")
+print("You are not dependable.")
+print("")
